@@ -1,0 +1,14 @@
+.bz-red{
+    background-color: #e6aaaa; 
+}
+.icon-width{
+    width: 20px;
+}
+.bz-castom-colour{
+    background-color: #f8f9fa;
+}
+@media screen and (max-width:576) {
+    .bike-w{
+        width: 100%;
+    }
+}
